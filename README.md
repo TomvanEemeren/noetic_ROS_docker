@@ -30,7 +30,7 @@ cd docker
 ```
 3. Clone the Github files in the new directory
 ```shell
-git clone --single-branch --branch docker https://github.com/Honors-Academy-High-Tech-Systems/Honors-Academy-High-Tech-Systems.git
+git clone https://github.com/TomvanEemeren/noetic_ROS_docker.git
 ```
 4. Build a new docker image that has some basic tools
 ```shell
